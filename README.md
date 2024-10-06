@@ -10,3 +10,4 @@ This will create a directory called `react-ui` in the current folder with an ini
 cd react-ui
 ```
 - To test the application, run `npm start`
+![alt text](resources/image-1.png)
