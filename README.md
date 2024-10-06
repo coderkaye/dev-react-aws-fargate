@@ -1,2 +1,1 @@
-# How To
-- Step 1
+# How To Use
