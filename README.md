@@ -1,1 +1,2 @@
-# dev-react-aws-fargate
+# How To
+- Step 1
